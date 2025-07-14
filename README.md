@@ -19,12 +19,12 @@ This repository provides the implementation of a fault diagnosis system for mill
 
 ## Key Features
 
-- ✅ Teacher-Student KD Framework
-- ✅ Works with scalogram or raw signal data
-- ✅ CNN/ViT backbone support
-- ✅ Pseudo-labeling for semi-supervised learning
-- ✅ High classification performance under few-shot conditions
-- ✅ Modular and easy-to-use PyTorch implementation
+-  Teacher-Student KD Framework
+-  Works with scalogram or raw signal data
+-  CNN/ViT backbone support
+-  Pseudo-labeling for semi-supervised learning
+-  High classification performance under few-shot conditions
+-  Modular and easy-to-use PyTorch implementation
 
 ---
 
